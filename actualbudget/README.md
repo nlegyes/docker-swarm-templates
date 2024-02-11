@@ -6,7 +6,7 @@ Check the [official Repository](https://github.com/actualbudget/actual) for more
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your productive docker swarm cluster.
+These instructions will get you a copy of the project up and running.
 
 ### Prerequisites
 
